@@ -1,7 +1,7 @@
 // Launch with OSC_recv.ck
 
 // host namen and port
-"192.168.100.189" => string hostname; // Change if your are in a network bwt computers 
+"localhost" => string hostname; // Change if your are in a network bwt computers 
 6449 => int port;
 
 // get command line
