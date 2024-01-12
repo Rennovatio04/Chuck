@@ -1,5 +1,5 @@
 // Definir la dirección IP y el puerto para la conexión OSC
-"192.168.100.189" => string hostname; // Cambia esto según tu configuración de red
+"localhost" => string hostname; // Cambia esto según tu configuración de red
 6449 => int port;
 
 // Crear el objeto OscOut para enviar mensajes
